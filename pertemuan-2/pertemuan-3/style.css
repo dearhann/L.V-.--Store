@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    text-decoration: solid;
+    text-transform: uppercase;
+    font-size: 3.5vh;
+}
+
+body {
+    background-color: rgb(75, 18, 18);
+    color: #f19f9f;
+}
+
+p {
+    text-align: justify;
+    margin-right: 20vh;
+    margin-left: 20vh;
+    font-size: 2.5vh;
+}
+
+hr {
+    margin-top: 3vh;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 15%;
+}
